@@ -1,0 +1,9 @@
+Avant merge:
+
+local/master : commit 1, commit 2, commit 3
+remote/master : commit 1, commit 2, commit 3, commit 4, commit 5
+
+Après merge:
+
+local/master : commit 1, commit 2, commit 3, commit 4, commit 5
+remote/master : commit 1, commit 2, commit 3, commit 4, commit 5
